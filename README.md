@@ -5,8 +5,13 @@ Tersedia versi Light dan Dark.
 
 ## Screenshots
 
-![Light Mode](https://raw.githubusercontent.com/PAPATIRI/minimalis-final-boss/main/images/dark-mode.png)  
-![Dark Mode](https://raw.githubusercontent.com/PAPATIRI/minimalis-final-boss/main/images/light-mode.png)
+### Dark Mode
+
+![Dark Mode](https://raw.githubusercontent.com/PAPATIRI/minimalis-final-boss/main/images/dark-mode.png)
+
+### Dark Mode
+
+![Light Mode](https://raw.githubusercontent.com/PAPATIRI/minimalis-final-boss/main/images/light-mode.png)
 
 # Changelog
 

@@ -14,15 +14,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "minimalis final boss",
+        "label": "minimalis final boss dark",
         "uiTheme": "vs-dark",
         "path": "./themes/minimalis-final-boss-color-dark-theme.json"
       },
       {
-        "label": "minimalis final boss",
+        "label": "minimalis final boss light",
         "uiTheme": "vs",
         "path": "./themes/minimalis-final-boss-color-light-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PAPATIRI/minimalis-final-boss.git"
   }
 }
