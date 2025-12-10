@@ -1,0 +1,66 @@
+{
+  "name": "minimalis final boss",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#191724",
+    "sideBar.background": "#191724",
+    "activityBar.background": "#191724",
+    "statusBar.background": "#191724",
+    "titleBar.activeBackground": "#191724",
+    "editorGroupHeader.tabsBackground": "#191724",
+    "tab.activeBackground": "#191724",
+    "tab.inactiveBackground": "#191724",
+    "panel.background": "#191724",
+    "editorGutter.background": "#191724",
+    "editorWidget.background": "#191724",
+    "input.background": "#191724",
+
+    "editorBracketHighlight.foreground1": "#CCCCCC",
+    "editorBracketHighlight.foreground2": "#CCCCCC",
+    "editorBracketHighlight.foreground3": "#CCCCCC",
+    "editorBracketHighlight.foreground4": "#CCCCCC",
+    "editorBracketHighlight.foreground5": "#CCCCCC",
+    "editorBracketHighlight.foreground6": "#CCCCCC",
+    "editorBracketMatch.border": "#ebbcba"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#6e6a86" }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string", "constant.other.symbol"],
+      "settings": { "foreground": "#eb6f92" }
+    },
+    {
+      "name": "Identifiers (class, method, variable, etc)",
+      "scope": [
+        "entity.name.type",
+        "entity.name.class",
+        "entity.name.namespace",
+        "entity.name.scope-resolution",
+        "entity.name.function",
+        "entity.name.method",
+        "entity.name.property",
+        "entity.name.label",
+        "entity.name.tag",
+        "support.type",
+        "support.class",
+        "support.function",
+        "meta.function-call",
+        "variable.other.property",
+        "variable.other.member"
+      ],
+      "settings": {
+        "foreground": "#cccccc"
+      }
+    },
+    {
+      "name": "TODO",
+      "scope": ["keyword.other.todo", "comment.block.todo"],
+      "settings": { "foreground": "#EB6F92" }
+    }
+  ]
+}

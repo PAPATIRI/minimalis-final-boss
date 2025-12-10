@@ -1,0 +1,28 @@
+{
+  "name": "minimalis-final-boss",
+  "displayName": "minimalis final boss",
+  "description": "colorscheme that minimal to the bone",
+  "publisher": "syarifth",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "minimalis final boss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minimalis-final-boss-color-dark-theme.json"
+      },
+      {
+        "label": "minimalis final boss",
+        "uiTheme": "vs",
+        "path": "./themes/minimalis-final-boss-color-light-theme.json"
+      }
+    ]
+  }
+}
