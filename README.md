@@ -1,20 +1,27 @@
 # Minimalis Final Boss Theme
 
-Tema minimalis dengan sentuhan warna lembut untuk fokus coding.
-Tersedia versi Light dan Dark.
+"it's just text" ahh theme. this one uses a selection of colors from [Rose Pine](https://rosepinetheme.com/) colorscheme.
 
 ## Screenshots
 
 ### Dark Mode
 
-![Dark Mode](https://raw.githubusercontent.com/PAPATIRI/minimalis-final-boss/main/images/dark-mode.png)
+![Dark Mode](images/dark-mode.png)
 
 ### Light Mode
 
-![Light Mode](https://raw.githubusercontent.com/PAPATIRI/minimalis-final-boss/main/images/light-mode.png)
+![Light Mode](images/light-mode.png)
 
-# Changelog
+## Inspiration
 
-## 0.0.1
+This theme was inspired by a creator who explored Neovim without LSP. His minimal approach to colors motivated me to try designing a simple and clean colorscheme but for my VSCode.
 
-- Initial release: Added light & dark theme
+[![Inspiration Video](https://img.youtube.com/vi/FdQ5FZSGLK8/hqdefault.jpg)](https://www.youtube.com/watch?v=FdQ5FZSGLK8)
+
+## License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+## Changelog
+
+See the full changelog in the [CHANGELOG.md](./CHANGELOG.md) file.
