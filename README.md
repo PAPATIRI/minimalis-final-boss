@@ -8,6 +8,10 @@
 
 ![Dark Mode](images/dark-mode.png)
 
+### Darker Mode
+
+![Darker Mode](images/darker-mode.png)
+
 ### Light Mode
 
 ![Light Mode](images/light-mode.png)
