@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.0.4] - 2025-12-11
+
+### Added
+
+- change extension's icon
+
 ## [0.0.3] - 2025-12-11
 
 ### Added
