@@ -15,6 +15,10 @@
     "editorWidget.background": "#191724",
     "input.background": "#191724",
 
+    "menu.background": "#191724",
+    "menu.selectionBackground": "#2a273f",
+    "menu.separatorBackground": "#6e6a86",
+
     "editorBracketHighlight.foreground1": "#6e6a86",
     "editorBracketHighlight.foreground2": "#6e6a86",
     "editorBracketHighlight.foreground3": "#6e6a86",

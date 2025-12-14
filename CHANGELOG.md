@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+- add other colors
+
+## [0.0.6] - 2025-12-12
+
+- fixed background for menubar dropdown
+- resize screenshoot theme for smaller size
+
+## [0.0.5] - 2025-12-12
+
+- fixed screenshoot image
+
 ## [0.0.4] - 2025-12-11
 
 ### Added
